@@ -20,7 +20,7 @@
 
 ##
 
-<div align="center">
+<div align="center" style:"flex">
   <a href="https://github.com/GoldenTlmeLover">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoldenTlmeLover&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenTlmeLover&layout=compact&langs_count=7&theme=tokyonight"/>
