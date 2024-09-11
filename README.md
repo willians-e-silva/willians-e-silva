@@ -1,10 +1,9 @@
-### Hi, you can call me Will 👋
+### Hi, i'm Willians 👋
 
-- 🌱 I’m currently learning: Javascript and Python
-- 💬 Ask me about: Anything, I'll gladly try to respond
+- 🌱 I’m currently learning: everything.
+- 💬 Ask me about: web development.
 - 📫 How to reach me: willians.silva9620@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am also an video editor
+  
 ##
 
 <div style="display: inline_block"><br>
@@ -18,22 +17,13 @@
 
 </div>
 
-##
-
-<div align="center" style:"display: inline_block">
-  <a href="https://github.com/GoldenTlmeLover">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoldenTlmeLover&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenTlmeLover&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-##
-<div> 
-  
-  
-  ![Snake animation](https://github.com/GoldenTlmeLover/GoldenTlmeLover/blob/output/github-contribution-grid-snake.svg)
-</div>
-  
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/willians-e-silva/willians-e-silva">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willians-e-silva&hide=java,html,tex&title_color=579DFF&text_color=c9cacc&icon_color=579DFF&bg_color=1d1f21&langs_count=3&locale=pt-br" />
+</a>
+<a href="https://github.com/willians-e-silva/willians-e-silva">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=willians-e-silva&show_icons=true&line_height=27&count_private=true&title_color=579DFF&text_color=c9cacc&icon_color=579DFF&bg_color=1d1f21&locale=pt-br&rank_icon=github" alt="Martin's GitHub Stats" />
+</a>
   ## 
+  
   <a href="https://www.linkedin.com/in/willians-e-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  ##
