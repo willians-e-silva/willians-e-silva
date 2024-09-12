@@ -24,6 +24,7 @@
 <a href="https://github.com/willians-e-silva/willians-e-silva">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=willians-e-silva&show_icons=true&line_height=27&count_private=true&title_color=579DFF&text_color=c9cacc&icon_color=579DFF&bg_color=1d1f21&locale=pt-br&rank_icon=github" alt="Martin's GitHub Stats" />
 </a>
-  ## 
+
+## 
   
   <a href="https://www.linkedin.com/in/willians-e-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
